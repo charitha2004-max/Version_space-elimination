@@ -1,0 +1,9 @@
+Weather,Budget,Companion,Transport,Stay,Decision
+Sunny,High,Friends,Car,Hotel,Go
+Sunny,Medium,Family,Car,Hotel,Go
+Rainy,Low,Alone,Bus,Hostel,Not Go
+Cloudy,High,Friends,Train,Hotel,Go
+Rainy,Medium,Friends,Bus,Hostel,Not Go
+Sunny,Low,Family,Train,Hostel,Not Go
+Cloudy,Medium,Alone,Car,Hotel,Go
+Rainy,High,Family,Car,Hotel,Go
